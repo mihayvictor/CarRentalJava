@@ -1,4 +1,4 @@
-package model.entities.services;
+package model.services;
 
 public interface TaxService {
     double tax(double amount);

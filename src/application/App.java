@@ -7,8 +7,8 @@ import java.util.Scanner;
 
 import model.entities.CarRental;
 import model.entities.Vehicle;
-import model.entities.services.BrazilTaxService;
-import model.entities.services.RentalService;
+import model.services.BrazilTaxService;
+import model.services.RentalService;
 
 public class App {
     public static void main(String[] args) throws Exception {
